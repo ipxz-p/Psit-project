@@ -3,6 +3,6 @@ from django.http import HttpResponse
 
 # Create your views here.
 def index(request):
-    return render(request, "main page/index.htm")
+    return render(request, "frontend/index.htm")
 def test(request):
-    return render(request, "main page/test.htm")
+    return render(request, "frontend/test.htm")
