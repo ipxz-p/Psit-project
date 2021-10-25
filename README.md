@@ -1,4 +1,7 @@
 # Prefixes = \
 ## :wrench: Administrator
 * \kick
-  * kick member
+  * Kick member
+___
+* \ban
+  * Ban member
