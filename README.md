@@ -1,4 +1,4 @@
 # project-psit
-# Prefixes = `\\`
+# Prefixes = "\\"
 # :wrench: Administrator
-\kick, \ban, \unban
+:white_small_square: \kick, \ban, \unban
