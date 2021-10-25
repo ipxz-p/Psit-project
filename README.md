@@ -1,3 +1,3 @@
 # Prefixes = "\\"
 # :wrench: Administrator
-> :small_blue_diamond: \kick, \ban, \unban
+> :white_small_square: \kick, \ban, \unban
