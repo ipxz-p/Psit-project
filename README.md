@@ -10,3 +10,15 @@ ___
 ___
 * ***\unban***
   * Unban member
+___
+* ***\lock***
+  * Lock Channel 
+___
+* ***\unlock***
+  * Unlock Channel 
+___
+* ***\clear***
+  * clear Channel 
+### :guitar: Music
+* ***\play***
+  * Kick member
