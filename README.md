@@ -22,4 +22,29 @@ ___
 ___
 ### :guitar: Music
 * ***\play***
-  * Kick member
+  * Play music type prefix(\) play and music name or youtube link
+___
+* ***\pause***
+  * Pause music  
+___
+* ***\resume***
+  * if music is pause type \resume to play music again
+___
+* ***\leave***
+  * make bot leave voice channel
+___
+* ***\skip***
+  * Skip song 
+___
+* ***\queue***
+  * check song list
+### :mag: Translate
+* ***\tr***
+  * translate word example Thailand to English type translate en สวัสดี
+  * Output = Hello
+___
+* ***\langcode***
+  * check language code
+
+  
+ 
