@@ -45,6 +45,18 @@ ___
 ___
 * ***\langcode***
   * check language code
-
+### :rofl: MEME
+* ***\meme***
+  * random some picture of meme
+___
+* ***cat, dog, alpaca, hamster***
+  * random picture of them
+### :keyboard: Wrong Word
+* ***\re***
+  * change word if you forget to change language example \re l;ylfu output = : สวัสดี
+### :lips: Text To Speech
+* ***\tts***
+  * type any word to make bot speak that
+ 
   
  
