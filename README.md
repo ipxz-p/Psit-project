@@ -18,7 +18,7 @@
   * Unlock Channel 
 
 * ***\clear***
-  * clear Channel 
+  * Clear Channel 
 ___
 ### :guitar: Music
 * ***\play***
