@@ -1,4 +1,4 @@
-# Prefixes = \
+# Devbii! bot
 ## :wrench: Administrator
 * ***\kick***
   * Kick member
