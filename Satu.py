@@ -68,7 +68,7 @@ async def unban(ctx, *, member):
 @bot.command()
 @commands.has_permissions(manage_messages = True)
 async def clear(ctx, amount=0):
-    await ctx.channel.purge(limit=amount)
+    await ctx.channel.purge(limit=amount+1)
 
 @bot.command()
 @commands.has_permissions(manage_channels = True)
