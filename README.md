@@ -7,3 +7,5 @@
 ___
 * ***\ban***
   * Ban member
+* ***\unban***
+  * Unban member
