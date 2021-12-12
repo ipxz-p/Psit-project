@@ -38,6 +38,7 @@ ___
 ___
 * ***\queue***
   * check song list
+___
 ### :mag: Translate
 * ***\tr***
   * translate word example Thailand to English type translate en สวัสดี
@@ -45,15 +46,18 @@ ___
 ___
 * ***\langcode***
   * check language code
+___
 ### :rofl: MEME
 * ***\meme***
   * random some picture of meme
 ___
 * ***cat, dog, alpaca, hamster***
   * random picture of them
+___
 ### :keyboard: Wrong Word
 * ***\re***
   * change word if you forget to change language example \re l;ylfu output = : สวัสดี
+___
 ### :lips: Text To Speech
 * ***\tts***
   * type any word to make bot speak that
