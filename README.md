@@ -2,7 +2,6 @@
 ## Get the bot at : https://discord.com/api/oauth2/authorize?client_id=895321854556930099&permissions=8&scope=bot
 ## Command
 ### :wrench: Administrator
-ipxz-p/Psit-project (github.com)
 * ***\kick***
   * Kick member
 
