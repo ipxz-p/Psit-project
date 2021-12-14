@@ -2,7 +2,6 @@
 ## Get the bot at : https://discord.com/api/oauth2/authorize?client_id=895321854556930099&permissions=8&scope=bot
 ## Command
 ### :wrench: Administrator
-[I'm an inline-style link](https://www.google.com)
 * ***\kick***
   * Kick member
 
