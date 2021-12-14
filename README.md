@@ -32,7 +32,7 @@ ___
 
 * ***\leave***
   * make bot leave voice channel
-
+https://github.com/ipxz-p/Psit-project
 * ***\skip***
   * Skip song 
 
